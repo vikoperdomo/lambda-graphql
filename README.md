@@ -1,2 +1,2 @@
-# lambda-graphql
-GraphQL Application To Query data, Hosted on AWS Lambda
+# aws-lambda-graphql
+GraphQL Application To Query Subreddits, Hosted on AWS Lambda
